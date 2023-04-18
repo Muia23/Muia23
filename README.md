@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Muia23"><img src="https://api.daily.dev/devcards/c2fc26bc98df4769925733093b1d2cfe.png?r=zx2" width="400" alt="Wilfred Muema's Dev Card"/></a>
+<a href="https://app.daily.dev/Muia23"><img src="https://api.daily.dev/devcards/c2fc26bc98df4769925733093b1d2cfe.png?r=zx2" width="150" alt="Wilfred Muema's Dev Card"/></a>
 
 <!--
 **Muia23/Muia23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
