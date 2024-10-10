@@ -57,11 +57,11 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 - Exploring **Cloud Architecture** & **Serverless**
 
 ---
-<table style="border:none;">
-  <tr style="border:none;">
-    <td style="border:none;">
+<table>
+  <tr>
+    <td>
       <a href="https://stats.hyochan.dev/en/stats/Muia23">
-        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="500" />
+        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="650" />
       </a>
     </td>
     <td>
