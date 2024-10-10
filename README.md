@@ -58,7 +58,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 
 ---
 <a href="https://stats.hyochan.dev/en/stats/Muia23"><img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="500" /></a>
-<img src="https://raw.githubusercontent.com/Muia23/Muia23/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=github_dark)
 <p align="center">
 <img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Muia23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
 <img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
