@@ -15,3 +15,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋 I'm [Your Name]
+
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Engineer** dedicated to crafting innovative and scalable solutions using **Python** and **JavaScript** technologies.
+
+---
+
+## ⚡ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2" />
+</p>
+
+- **[Project 1](https://github.com/yourusername/project1)** - A powerful web app for XYZ
+- **[Project 2](https://github.com/yourusername/project2)** - Innovative SaaS platform for ABC
+
+---
+
+## 💬 Get in Touch!
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
+- **Portfolio**: [Your Website](https://yourwebsite.com)
+
+---
+
+## 🌱 What I’m Learning
+- Continuous improvement in **TypeScript** & **Vue.js**
+- Exploring **Cloud Architecture** & **Serverless**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=light" />
+</p>
+
+Thanks for visiting! Let's build something amazing together ✨
