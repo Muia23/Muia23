@@ -58,10 +58,11 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 
 ---
 <a href="https://stats.hyochan.dev/en/stats/Muia23"><img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="600" /></a>
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Muia23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<img height="50%" width="60%" src ="https://github-readme-stats.vercel.app/api?username=Muia23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<img height="50%" width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=darcula&hide_border=true&background=FFFFFF00" />
-
+</p>
 
 Thanks for visiting! Let's build something amazing together ✨
