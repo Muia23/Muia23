@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 - Exploring **Cloud Architecture** & **Serverless**
 
 ---
-
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=light" />
 </p>
