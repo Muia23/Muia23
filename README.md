@@ -61,7 +61,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
   <tr>
     <td>
       <a href="https://stats.hyochan.dev/en/stats/Muia23">
-        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="650" />
+        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="350" />
       </a>
     </td>
     <td>
