@@ -59,7 +59,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=light" />
 </p>
 
 Thanks for visiting! Let's build something amazing together ✨
