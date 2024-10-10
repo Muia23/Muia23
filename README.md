@@ -57,13 +57,13 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 - Exploring **Cloud Architecture** & **Serverless**
 
 ---
-<div class="row">
-  <div class="col-md-6">    
+<div style="display: flex; justify-content: space-between;">
+  <div>    
       <a href="https://stats.hyochan.dev/en/stats/Muia23">
         <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="500" />
       </a>
   </div>
-  <div class="col-md-6">
+  <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=github_dark" width="500" />    
   </div>
 </div>
