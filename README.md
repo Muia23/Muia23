@@ -61,11 +61,11 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
   <tr>
     <td>
       <a href="https://stats.hyochan.dev/en/stats/Muia23">
-        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="480" />
+        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="500" />
       </a>
     </td>
     <td>
-      <img height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=github_dark"  />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=github_dark"  />
     </td>
   </tr>
 </table>
