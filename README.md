@@ -57,16 +57,18 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 - Exploring **Cloud Architecture** & **Serverless**
 
 ---
-<div style="display: flex; justify-content: space-between;">
-  <div>    
+<table>
+  <tr>
+    <td>
       <a href="https://stats.hyochan.dev/en/stats/Muia23">
-        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="200" />
+        <img src="https://stats.hyochan.dev/api/github-stats?login=Muia23" width="500" />
       </a>
-  </div>
-  <div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=github_dark" width="200" />    
-  </div>
-</div>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=github_dark" width="500" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
