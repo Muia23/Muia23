@@ -65,7 +65,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
       </a>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=apprentice"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=nord_black"/>
     </td>
   </tr>
 </table>
