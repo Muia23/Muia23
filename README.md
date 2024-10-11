@@ -72,9 +72,9 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 
 
 <p align="center">
-<img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Muia23&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs">
-<img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=nord&hide_border=true" />
+<img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Muia23&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs&bg_color=D39CDD00">
+<img height="200" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php&bg_color=D39CDD00">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=nord&hide_border=true&background=D39CDD00" />
 </p>
 
 Thanks for visiting! Let's build something amazing together ✨
