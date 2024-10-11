@@ -77,4 +77,6 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=nord&hide_border=true&background=D39CDD00" />
 </p>
 
+<img src="https://static.wixstatic.com/media/5498a7_74632c06307e4e138b9c4d2aa5b97e01~mv2.png" alt="WordCloud" width="100%">
+
 Thanks for visiting! Let's build something amazing together ✨
