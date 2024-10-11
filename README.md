@@ -65,16 +65,16 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** & **Software Eng
       </a>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=nord_dark&hide_border=true"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muia23&theme=nord_dark"/>
     </td>
   </tr>
 </table>
 
 
 <p align="center">
-<img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Muia23&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs&bg_color=00000000">
-<img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=nord&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=nord&hide_border=true&background=FFFFFF00" />
+<img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Muia23&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs">
+<img height="70%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=nord&hide_border=true" />
 </p>
 
 Thanks for visiting! Let's build something amazing together ✨
