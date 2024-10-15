@@ -18,7 +18,7 @@
 <img height="150" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Muia23&layout=compact&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php&bg_color=D39CDD00">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muia23&theme=nord&hide_border=true&background=D39CDD00" />
 </p>
-<a href="https://app.daily.dev/Muia23"><img src="https://api.daily.dev/devcards/c2fc26bc98df4769925733093b1d2cfe.png?r=zx2" width="250" alt="Wilfred Muema's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/Muia23"><img src="https://api.daily.dev/devcards/c2fc26bc98df4769925733093b1d2cfe.png?r=zx2" width="250" alt="Wilfred Muema's Dev Card"/></a>-->
 <img src="https://static.wixstatic.com/media/5498a7_74632c06307e4e138b9c4d2aa5b97e01~mv2.png" alt="WordCloud" width="100%">
 
 Thanks for visiting! Let's build something amazing together ✨
