@@ -1,4 +1,4 @@
-![### Hi there 👋](https://static.wixstatic.com/media/5498a7_8ce17baa60814a9981ad9d73ca19831d~mv2.gif)
+![### Hi there 👋](github-clip.gif)
 <table>
   <tr>
     <td>
